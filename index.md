@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 祝你早安午安晚安
 
 You can use the [editor on GitHub](https://github.com/myghx/Zuiaide/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
